@@ -1,7 +1,7 @@
-import requests
 from io import StringIO
 from flask import Flask, request, jsonify
 import pandas as pd
+import requests
 from task1 import calculate
 
 
